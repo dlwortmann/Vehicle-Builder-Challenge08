@@ -4,26 +4,27 @@
 
 ## Table of Contents
 
-* [Description](#description)
+ * [Description](#description)
  * [Installation](#installation)
- * [Usage](#usage)
- * [Contributing](#contribute)
- * [Tests](#test)
+ * [Usage Information](#usage-information)
+ * [Contribution Guidelines](#contribution-guidelines)
+ * [Test Instructions](#test-instructions)
  * [Credits](#credits)
  * [License](#license)
  * [Questions](#questions)
 
 ## Description
-This is a command-line application that can be used . 
+This is a command-line application that I updated to be able to take in additional vehicle types and perform a list of actions to them. Users are prompted to either create a new vehicle by following a list of prompts or select from one that has already been made. A list of actions is then available in the command line that can manipulate a number of methods. This project is an exercise in writing code with  Typescript and Object Oriented Programming. 
 
 ## Link to Walkthrough Video
 
 
 ## Installation
-1. Clone the repo onto your machine using the command "git clone".
+1. Clone the repo onto your machine using the command "git clone" using the SSH key from the repository.
 2. Open respository in VS code (download this if necessary). 
 3. Make sure that TypeScript is also install on your machine.  
 4. Install necessary packages by running "npm install". 
+5. Start program by running "npm start".
 
 ## Usage Information
 
@@ -35,7 +36,7 @@ I am open to collaborations. Any changes should made on a feature branch and pul
 Tests can be run in your own terminal.
 
 ## Credits
-I'd like to give credit to my study partners Mina and Fischer who were great to bounce ideas off of and helped me work through some bugs in my functions. The Xpert Learning Assistant on BootCampSpot was able to provide the .
+I'd like to give credit to my study partners Mina and Fischer who were great to bounce ideas off of and helped me work through some bugs in my functions. The Xpert Learning Assistant on BootCampSpot was able to suggest solutions to some bugs within the "tow" and "wheelie" methods.
 
 ## License
 This application is covered under the [MIT License](https://opensource.org/licenses/MIT).
