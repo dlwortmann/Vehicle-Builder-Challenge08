@@ -18,6 +18,7 @@ This is a command-line application that I updated to be able to take in addition
 
 ## Link to Walkthrough Video
 
+[Link to Walk Through Video](https://drive.google.com/file/d/1HnDNhH1Gw4hYHZHPyIeB8BPOBLqd8hs2/view)
 
 ## Installation
 1. Clone the repo onto your machine using the command "git clone" using the SSH key from the repository.
